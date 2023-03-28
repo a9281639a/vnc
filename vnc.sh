@@ -1,6 +1,8 @@
-sudo su
+sudo apt update -y
 
+#installing screen
 sudo apt-get install screen -y
+
 
 
 #Activating screen
